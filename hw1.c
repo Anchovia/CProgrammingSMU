@@ -4,7 +4,7 @@ int main(void){
 	int num1 = 0;
 	int num2 = 0;
 	
-	printf("µÎ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ë‘ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d %d", &num1, &num2);
 	
 	printf("%d & %d = %d\n", num1, num2, num1 & num2);
